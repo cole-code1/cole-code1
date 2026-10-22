@@ -1,9 +1,9 @@
- ## Hi, i'm Collins 👋
+ ## Hi, i'm Cole 👋
 
 - 🔭 I'm a software engineer<br/>
 - 🌱 I create websites<br/>
-- 👯 I studied at Moringa school<br/>
-- 🤔 I’m looking for help with ...<br/>
+- 👯 I Love coding<br/>
+- 🤔 Yes they call me the king of building!...<br/>
 - 📫 How to reach me: {Whatsapp:('0700401188')}<br/>
 - 😄 And i love playing PUBG
 
